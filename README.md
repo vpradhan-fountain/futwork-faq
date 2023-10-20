@@ -1,4 +1,4 @@
-# Welcome to Futwork
+# Welcome to Futwork <img src="https://uploads-ssl.webflow.com/6425551553ab1469308881af/6425687b654f2adb066275ba_futwork%20logo_final-20.d5cabae4.svg" >
 
 ### Careers FAQ
 
